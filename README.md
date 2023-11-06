@@ -17,3 +17,7 @@ Category | Info | more Info
 --- | --- | ---
 Name | Kristin | Wegener
 Born | December | 1994
+
+## A random joke for you
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
