@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B27BA&random=false&width=435&lines=I'm+new+here!+)](https://git.io/typing-svg)
 
 ## About me 
-I'm Kristin   
+  
+**I'm Kristin**  
+  
 👩🏼‍💻 Web Development Student at Neue Fische  
 📍 NRW, Germany  
 🐩 Dog Mum  
