@@ -15,7 +15,3 @@ Category | Info | more Info
 --- | --- | ---
 Name | Kristin | Wegener
 Born | December | 1994
-
-## Visitors of my profile  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kristinwegener.kristinwegener&left_color=green&right_color=red)
