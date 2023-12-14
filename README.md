@@ -1,25 +1,21 @@
 # Welcome :)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B27BA&random=false&width=435&lines=I'm+new+here!+)](https://git.io/typing-svg)
-
-## About me 
-  
 **I'm Kristin**  
   
 👩🏼‍💻 Web Development Student at Neue Fische  
 📍 NRW, Germany  
 🐩 Dog Mum  
 
-## A red panda     
-![Bild von einem roten Panda](https://www.allwetterzoo.de/_cache/images/cms/Gemaessigte-Zone/Saeugetiere/Roter-Panda/.3bc4bf743cbd112829ecefa6ccf18d9c/Roter-Panda_ganz-auf-Stamm_bewegung-nach-links-und-Blick-in-Kamera_Mai-2021.jpg)
+**Currently learning**  
 
-## A table
-
-Category | Info | more Info
---- | --- | ---
-Name | Kristin | Wegener
-Born | December | 1994
-
-## A random joke for you
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1
+)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB   
+)
+![NEXT.JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+)
