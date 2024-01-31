@@ -19,3 +19,10 @@
 )
 ![NEXT.JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 )
+
+**My final project at Neue Fische Bootcamp: woodworm 🐛**
+
+**woodworm** is a an app for DIY enthusiast that let's users share their DIY crafting ideas:
+
+![-> Repository](https://github.com/On-Fi/D.I.Y-App)
+![-> Website](https://diy-app-flame.vercel.app/)
