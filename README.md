@@ -24,5 +24,5 @@
 
 **woodworm** is a an app for DIY enthusiast that let's users share their DIY crafting ideas:
 
-![-> Repository](https://github.com/On-Fi/D.I.Y-App)
-![-> Website](https://diy-app-flame.vercel.app/)
+[➡️ Repository](https://github.com/On-Fi/D.I.Y-App)
+[➡️ Website](https://diy-app-flame.vercel.app/)
